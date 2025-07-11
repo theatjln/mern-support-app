@@ -1,0 +1,21 @@
+/* Root container height */
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Main layout container */
+  .page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Crucial to push footer down */
+  }
+  
+  /* Content area that fills space */
+  .content-wrap {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
