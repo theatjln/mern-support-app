@@ -1,4 +1,4 @@
-# MERN Point of Sale Support Application
+# MERN Support Application
 
 ## Overview
 The MERN Point of Sale Support Application is designed to assist users in reporting and resolving issues related to payments and payouts. The application is built using the MERN stack (MongoDB, Express, React, Node.js) and provides a user-friendly interface for submitting issues and collecting relevant information.
